@@ -1,0 +1,21 @@
+{
+  "name": "cons-stream",
+  "version": "0.0.0",
+  "description": "an experiment in streams",
+  "main": "index.js",
+  "dependencies": {
+    "jscons": "^1.0.3",
+    "promise": "^5.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/cons-stream.git"
+  },
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/cons-stream/issues"
+  },
+  "homepage": "https://github.com/nathan7/cons-stream"
+}
